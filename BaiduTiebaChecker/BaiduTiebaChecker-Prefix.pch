@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'BaiduTiebaChecker' target in the 'BaiduTiebaChecker' project
+//
+
+#ifdef __OBJC__
+	#import <Cocoa/Cocoa.h>
+#endif
