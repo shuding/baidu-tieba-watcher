@@ -131,7 +131,7 @@
 				LastUpgradeCheck = 0450;
 				ORGANIZATIONNAME = Ds;
 			};
-			buildConfigurationList = 440AD8F31696DB26002853E5 /* Build configuration list for PBXProject "BaiduTiebaChecker" */;
+			buildConfigurationList = 440AD8F31696DB26002853E5 /* Build configuration list for PBXProject "TiebaChecker" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -259,6 +259,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "BaiduTiebaChecker/BaiduTiebaChecker-Prefix.pch";
 				INFOPLIST_FILE = "BaiduTiebaChecker/BaiduTiebaChecker-Info.plist";
+				MACOSX_DEPLOYMENT_TARGET = 10.8;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
@@ -271,6 +272,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "BaiduTiebaChecker/BaiduTiebaChecker-Prefix.pch";
 				INFOPLIST_FILE = "BaiduTiebaChecker/BaiduTiebaChecker-Info.plist";
+				MACOSX_DEPLOYMENT_TARGET = 10.8;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
@@ -279,7 +281,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		440AD8F31696DB26002853E5 /* Build configuration list for PBXProject "BaiduTiebaChecker" */ = {
+		440AD8F31696DB26002853E5 /* Build configuration list for PBXProject "TiebaChecker" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				440AD9151696DB27002853E5 /* Debug */,
@@ -295,6 +297,7 @@
 				440AD9191696DB27002853E5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
